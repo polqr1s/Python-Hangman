@@ -1,1 +1,2 @@
-# PythonStuff
+# Python Hangman
+# Beta
